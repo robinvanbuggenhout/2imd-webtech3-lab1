@@ -1,0 +1,16 @@
+body
+{
+    background-color: beige;
+}
+
+h1
+{
+    font: 3em;
+    font-weight: bold;
+    text-decoration: underline; 
+}
+
+a
+{
+    text-decoration: none;
+}
